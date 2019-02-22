@@ -13,6 +13,7 @@
   "scripts": {
     "test": "jest"
   },
+  "repository": "benice-tools/gen-utils",
   "keywords": [
     "generators",
     "generator",
